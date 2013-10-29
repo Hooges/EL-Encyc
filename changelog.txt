@@ -1,5 +1,9 @@
 Changelog:
 
+2013-10-29
+Tailoring:
+Updated name on mage robe shirt and pants to match game description.
+
 2013-08-27
 
 Tailoring:
