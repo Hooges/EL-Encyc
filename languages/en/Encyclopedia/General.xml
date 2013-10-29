@@ -1732,10 +1732,10 @@
    <link ref="Tunic_Ninja" title="Tunic of the Ninja"/>
    <nl/>
    <link ref="Pants_PurpleBlack" title="Black Purple Striped Pants"/><text>    </text>
-   <link ref="Robe_Mage" title="Mage Robe"/>
+   <link ref="Robe_Mage" title="Mage Robe Shirt"/>
    <nl/>
    <link ref="Pants_BlueBlack" title="Black Blue Striped Pants"/><text>      </text>
-   <link ref="RobeSkirt_Mage" title="Mage Robe Skirt"/>
+   <link ref="RobeSkirt_Mage" title="Mage Robe Pants"/>
    <nl/>
    <link ref="Pants_Black" title="Black Baggy Pants"/><text>             </text>
    <text> </text>
