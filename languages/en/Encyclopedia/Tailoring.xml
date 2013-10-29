@@ -3037,7 +3037,7 @@
    <nl/>
    <text>                  TAILORING</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>                  Mage Robe</text><nl/><nl/>
+   <text>               Mage Robe Shirt</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="21" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
    <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
    <text> 1-3 Armor, 2% chance to do mana drain.</text>
@@ -3077,7 +3077,7 @@
    <nl/>
    <text>                  TAILORING</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>               Mage Robe Skirt</text><nl/><nl/>
+   <text>              Mage Robe Pants</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="20" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
    <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
    <text> 2-3 Armor, +2 Heat and Cold Protection.</text>
@@ -3109,7 +3109,7 @@
    <text> Weight: 3 EMU</text>
    <nl/>
    <nl/>
-   <text> The Mage Robe Skirt and the Cape of Unbreakable can't be</text><nl/>
+   <text> The Mage Robe Pants and the Cape of Unbreakable can't be</text><nl/>
    <text> worn at the same time.</text>
    <nl/>
    <nl/>
